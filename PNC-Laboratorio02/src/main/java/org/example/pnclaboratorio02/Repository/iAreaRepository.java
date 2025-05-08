@@ -13,11 +13,11 @@ public interface iAreaRepository extends iGenericRepository<Area, UUID> {
 
     Area findByNombre(String nombre);
 
-    @Query(nativeQuery = true, value = "SELECT * FROM Area WHERE precio = :precio")
-    List<Area> findByPrecioNativo(@Param("precio") String precio);
-
     @Query("SELECT a FROM Area a WHERE a.idArea = :idArea")
-    Area findByIdAreaJPQL(@Param("idArea") UUID idArea);
+    Area findByIdArea(@Param("idArea") UUID idArea);
+
+    @Query(nativeQuery = true, value = "SELECT * FROM Area WHERE precio = :precio")
+    List<Area> findByPrecioNative(@Param("precio") String precio);
 }
 
 
