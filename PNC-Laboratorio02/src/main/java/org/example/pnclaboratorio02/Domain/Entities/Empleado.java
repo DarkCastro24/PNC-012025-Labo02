@@ -27,4 +27,8 @@ public class Empleado {
 
     @Column(nullable = false)
     private String puesto;
+
+    @ManyToOne
+    @JoinColumn(name = "id_departamento", nullable = false, foreignKey = @ForeignKey(name = "Fk_user_departamento"))
+    private Departamento departamento;
 }
