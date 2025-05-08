@@ -22,7 +22,7 @@ public class Empleado {
     @Column(nullable = false)
     private String apellido;
 
-    @Column(nullable = false)
+    @Column(unique = true, nullable = false)
     private String correo;
 
     @Column(nullable = false)
