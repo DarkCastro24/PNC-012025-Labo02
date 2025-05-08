@@ -17,6 +17,9 @@ public class Proyecto {
     @Column(nullable = false)
     private String titulo;
 
+    @Column(nullable = false)
+    private String precioFinal;
+
     @ManyToOne
     @JoinColumn(name = "id_cliente", nullable = false, foreignKey = @ForeignKey(name = "Fk_proyecto_cliente"))
     private Cliente cliente;
@@ -24,5 +27,9 @@ public class Proyecto {
     @ManyToOne
     @JoinColumn(name = "id_lider", nullable = false, foreignKey = @ForeignKey(name = "fk_proyecto_lider"))
     private Empleado lider;
+
+    @ManyToOne
+    @JoinColumn(name = "id_categoria", nullable = false, foreignKey = @ForeignKey(name = "Fk_proyecto_categoria"))
+    private Categoria categoria;
 
 }
