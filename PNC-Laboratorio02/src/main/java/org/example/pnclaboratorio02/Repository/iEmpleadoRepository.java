@@ -1,4 +1,4 @@
-package org.example.pnclaboratorio02.Domain.Repository;
+package org.example.pnclaboratorio02.Repository;
 
 import jakarta.transaction.Transactional;
 import org.example.pnclaboratorio02.Domain.Entities.Empleado;
@@ -10,7 +10,6 @@ import java.util.List;
 @Transactional
 public interface iEmpleadoRepository extends iGenericRepository<Empleado, Long> {
 
-    //cambié a lista porque varios empleados pueden tener el mismo nombre
     List<Empleado> findByNombre(String nombre);
 
     @Query(nativeQuery = true, value = "SELECT * FROM Empleados WHERE nombre = :nombre")
