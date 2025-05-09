@@ -4,39 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803b05c8-803e-4d8c-a95d-b99973ad30a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/.mvn/wrapper/IDepartamentoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/AreaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/AsistenciaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/CapacitacionServicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/CategoriaServicesImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/ClienteServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/ComentarioServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/DepartamentoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/EmpleadoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/EvaluacionServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/ProyectoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/PuestoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/RubroServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/TecnologiaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/TecnologiaXProyecto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/ServicesImpl/TrabajadoresServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iAreaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iAsistenciaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iCapacitacionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iCategoriaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iClienteService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iComentarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iDepartamentoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iEmpleadoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iEvaluacionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iProyectoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iPuestoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iRubroService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iTecnologiaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iTecnologiaXProyecto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNC-Laboratorio02/src/main/java/org/example/pnclaboratorio02/Services/iTrabajadoresService.java" afterDir="false" />
-    </list>
+    <list default="true" id="803b05c8-803e-4d8c-a95d-b99973ad30a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2wqCwRXGoX3jYaE3tnqLdPmcSzy" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,7 +28,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature-services",
+    "git-widget-placeholder": "hotfix",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/soytu/Desktop/PNC-012025-Labo02"
